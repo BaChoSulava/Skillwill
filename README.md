@@ -1,3 +1,3 @@
 # Skillwill
 
-these are my homeworks files in Skillwill 
+these are my homework files in Skillwill 
